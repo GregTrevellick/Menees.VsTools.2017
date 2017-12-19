@@ -1,0 +1,8 @@
+COPYRIGHT
+All title, copyrights, and intellectual property rights in and to Menees VS Tools as well as the accompanying documentation, source code, text, and images are owned by Bill Menees.
+
+NO WARRANTIES
+Menees VS Tools is provided AS IS without warranty of any kind, either expressed or implied.  The entire risk as to the quality and performance of the product is with you.  Should the product prove defective, you assume the cost of all-necessary servicing, repair, or correction.  To the maximum extent permitted by applicable law, Bill Menees disclaims all warranties and conditions, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement, with regard to Menees VS Tools, and the provision of or failure to provide Support Services.
+
+LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, in no event shall Bill Menees be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, data being rendered inaccurate, loss sustained by you or third parties, a failure of the program to operate with any other programs, or any other pecuniary loss) arising out of the use of or inability to use Menees VS Tools or the provision of or failure to provide Support Services, even if Bill Menees has been advised of the possibility of such damages. In any case, Bill Menees' entire liability under any provision of this license agreement shall be limited to U.S. $5.00.  Because some states and jurisdictions do not allow the exclusion or limitation of liability, the above limitation may not apply to you.
