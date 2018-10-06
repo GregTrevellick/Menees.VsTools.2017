@@ -22,6 +22,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/403ut9uqnu4yv7ln?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Menees-VsTools.2017.svg)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_apis/build/status/Menees.VsTools.2017)](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_build/latest?definitionId=)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
