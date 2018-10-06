@@ -2,6 +2,7 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
+**[Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.**
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Menees.VsTools.2017?branch=master)](https://bettercodehub.com/results/GregTrevellick/Menees.VsTools.2017)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
