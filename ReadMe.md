@@ -11,20 +11,21 @@
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=alert_status)](https://sonarcloud.io/dashboard?id=Menees.VsTools.2017)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=bugs)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=code_smells)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=coverage)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=ncloc)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=security_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/403ut9uqnu4yv7ln?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Menees-VsTools.2017.svg)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017/build/tests)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
