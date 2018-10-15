@@ -8,7 +8,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Menees.VsTools.2017/depshield.svg)](https://depshield.github.io)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
 
 
